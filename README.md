@@ -7,9 +7,8 @@
 → 💬 Ask me about games 🎮 <br>
 → ✨ Fun fact: I love JavaScript <br>
 
-→ 📫 How to reach me: armando.vinicius12@gmail.com
-
-<a href="https://twitter.com/vini_armand0">https://img.shields.io/badge/twitter-Follow--me-red</a>
+→ 📫 How to reach me: armando.vinicius12@gmail.com <br>
+→ <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" alt="twitter logo" width="16px"></img> Twitter: [vini_armand0](https://twitter.com/vini_armand0)
 <!--
 **ArmandoVinicius/ArmandoVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
