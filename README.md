@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-→ 👶🏻 I'm 16 years old.
-→ 🧠 Currently I'm learning React JS, Node JS and React Native
-→ 📚 I'm in the 2nd year of high school
-→ 👨‍🎓 Dream of being a FullStack developer
-→ 💬 Ask me about games 🎮
-→ ✨ Fun fact: I love JavaScript
+→ 👶🏻 I'm 16 years old. <br>
+→ 🧠 Currently I'm learning React JS, Node JS and React Native <br>
+→ 📚 I'm in the 2nd year of high school <br>
+→ 👨‍🎓 Dream of being a FullStack developer <br>
+→ 💬 Ask me about games 🎮 <br>
+→ ✨ Fun fact: I love JavaScript <br>
 
 → 📫 How to reach me: armando.vinicius12@gmail.com
 
