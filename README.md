@@ -9,7 +9,7 @@
 
 → 📫 How to reach me: armando.vinicius12@gmail.com
 
-(https://img.shields.io/badge/twitter-Follow--me-red)[https://twitter.com/vini_armand0]
+[https://img.shields.io/badge/twitter-Follow--me-red](https://twitter.com/vini_armand0)
 <!--
 **ArmandoVinicius/ArmandoVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
