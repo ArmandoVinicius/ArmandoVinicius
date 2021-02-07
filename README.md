@@ -2,7 +2,7 @@
 
 → 👶🏻 I'm 17 years old. <br>
 → 🧠 Currently I'm learning React JS, Node JS and React Native <br>
-→ 📚 I'm in the 3nd year of high school <br>
+→ 📚 I'm in the 3rd year of high school <br>
 → 👨‍🎓 Dream of being a FullStack developer <br>
 → 💬 Ask me about games 🎮 <br>
 
