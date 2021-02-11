@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
-    <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api?username=ArmandoVinicius&count_private=true&show_icons=true&hide_rank=true&custom_title=Status do meu GitHub&theme=dark" /><!--GitHub stats Card-->
+    <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api?username=ArmandoVinicius&count_private=true&show_icons=true&custom_title=Status do meu GitHub&theme=dark" /><!--GitHub stats Card-->
   </a>
   <a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVinicius&langs_count=3&custom_title=Linguagens mais usadas&theme=dark" /><!--Language Card-->
