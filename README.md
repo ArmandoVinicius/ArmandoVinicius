@@ -9,13 +9,14 @@
 → 📫 How to reach me: armando.vinicius12@gmail.com <br>
 → <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" alt="twitter logo" width="16px"></img> Twitter: [vini_armand0](https://twitter.com/vini_armand0)
 
-<a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmandoVinicius&count_private=true&show_icons=true&theme=calm" />
-</a>
-<a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVinicius&hide=html,python&theme=calm" />
-</a>
-
+<div>
+  <a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmandoVinicius&count_private=true&show_icons=true&theme=calm" />
+  </a>
+  <a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVinicius&hide=html,python&theme=calm" />
+  </a>
+</div>
 <!--
 **ArmandoVinicius/ArmandoVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
