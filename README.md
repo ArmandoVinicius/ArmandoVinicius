@@ -16,9 +16,6 @@
   <a href="https://github.com/ArmandoVinicius/ArmandoVinicius">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVinicius&langs_count=3&custom_title=Linguagens mais usadas&theme=dark" /><!--Language Card-->
   </a>
-  <a href="https://wakatime.com/@Raandom_">
-    <img align="center" height="205px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Raandom_&theme=dark&custom_title=Tempo de 'coding' em cada linguagem" /><!--Wakatime Card-->
-  </a>
 </div>
 
 <!--
