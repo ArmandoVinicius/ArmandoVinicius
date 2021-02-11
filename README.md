@@ -10,7 +10,7 @@
 → <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" alt="twitter logo" width="16px"></img> Twitter: [vini_armand0](https://twitter.com/vini_armand0)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandoVinicius&count_private=true&show_icons=true&?theme=calm)](https://github.com/anuragha/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVinicius)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVinicius&hide=html,python)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ArmandoVinicius/ArmandoVinicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
