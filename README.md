@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 → 👶🏻 I'm 18 years old. <br>
-→ 🧠 Currently I want to learn React JS, Node JS and React Native <br>
-→ 📚 I'm in the 3rd year of high school <br>
-→ 👨‍🎓 Dream of being a FullStack developer (?) <br>
-→ 💬 Ask me about games 🎮 <br>
+→ 🧠 Currently I have interest to learn React JS and React Native <br>
+→ 📚 I study Computer Science at the Federal University of Ceará <br>
 
 → 📫 How to reach me: armando.vinicius12@gmail.com <br>
 → <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" alt="twitter logo" width="16px"></img> Twitter: [vini_armand0](https://twitter.com/vini_armand0)
