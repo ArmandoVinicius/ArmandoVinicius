@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 → 👶🏻 I'm 18 years old. <br>
-→ 🧠 Currently I have interest to learn React JS and React Native <br>
+→ 🧠 Currently I have interest to learn React JS, React Native and a little bit of Python <br>
 → 📚 I study Computer Science at the Federal University of Ceará <br>
 
 → 📫 How to reach me: armando.vinicius12@gmail.com <br>
