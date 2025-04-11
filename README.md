@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-→ 👶🏻 I'm 20 years old. <br>
-→ 🧠 Currently I have interest to learn React JS, C (C# aswell) <br>
-→ 💻 In the moment the main focus of my studies are React <br>
+→ 👶🏻 I'm 21 years old. <br>
+→ 🧠 Currently I'm learning ReactJS and Java <br>
 → 📚 I study Computer Science at the Federal University of Ceará <br>
 
-→ 📫 How to reach me: armandovinicius@alu.ufc.br <br>
+→ 📫 How to reach me: armando.vinicius12@gmail.com <br>
 → <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="twitter logo" width="16px"></img> LinkedIn: [Armando Vinicius](https://www.linkedin.com/in/armando-vinicius-bezerra-barbosa-2aaa661a6/)
 
 <div>
