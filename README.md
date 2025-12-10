@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-→ 👶🏻 I'm 21 years old. <br>
+→ 👶🏻 I'm 22 years old. <br>
 → 🧠 Currently I'm learning ReactJS and Java <br>
 → 📚 I study Computer Science at the Federal University of Ceará <br>
 
